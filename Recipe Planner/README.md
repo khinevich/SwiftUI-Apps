@@ -3,7 +3,7 @@
 ## Tom Kuttler & Mikhail Khinevich
 
 ## Local development
-For your Intro Course App, you will use XcodeGen to manage your Xcode Project. 
+Use XcodeGen to manage your Xcode Project. 
 
 **What is XcodeGen?** XcodeGen is a tool that automatically generates Xcode project files from a simple configuration file. Instead of manually managing complex Xcode project settings, you define your project structure in the provided `project.yml` file, and XcodeGen creates the `.xcodeproj` file for you. This makes it easier to manage your Xcode project under version control (git), and resolve any merge conflicts that arise.
 

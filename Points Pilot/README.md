@@ -1,6 +1,10 @@
 # PointsPilot - Traffic Penalty Points Tracker, iOS-App
 ![iOS-App](PointsPilot.jpg)
-## Jonathan Thorsten Müller & Mikhail Khinevich
+
+## Project Documentation
+
+This README serves as your primary documentation.
+
 PointsPilot helps drivers in Germany track their traffic penalty points under
 the Flensburg system. It provides a user-friendly interface to log violations,
 view current points, check expirations, and optionally share scores on a global
@@ -8,38 +12,6 @@ leaderboard.
 
 For the leaderboard-feature, a custom REST API server is created. This server-side code is using Vapor and  available at
 [https://gitlab.lrz.de/jnthnmllr/pointspilotserver](https://gitlab.lrz.de/jnthnmllr/pointspilotserver).
-
-## Local development
-
-Use XcodeGen to manage your Xcode Project.
-
-**What is XcodeGen?** XcodeGen is a tool that automatically generates Xcode project files from a simple configuration file. Instead of manually managing complex Xcode project settings, you define your project structure in the provided `project.yml` file, and XcodeGen creates the `.xcodeproj` file for you. This makes it easier to manage your Xcode project under version control (git), and resolve any merge conflicts that arise.
-
-**Why do we need this?** When you clone this repository, you won't find a ready-to-use `.xcodeproj` file, which you can directly open with Xcode. Instead, you'll find a `project.yml` configuration file that describes how the Xcode project should be set up. You need to generate the actual Xcode project file before you can open and work on the app in Xcode.
-
-1. Install xcodegen
-   ```bash
-   brew install xcodegen
-   ```
-2. Generate .xcodeproj
-
-   ```bash
-   xcodegen generate
-   ```
-
-   After running this command, you'll see a new `.xcodeproj` file appear in your project folder. You can then double-click this file to open your project in Xcode.
-
-Since the `xcodegen generate` command must be run when the project is cloned and whenever changes affect the project structure, you can enable Git hooks to run the command automatically after merges and pulls.
-
-Run the following command to point `git` to the hooks:
-
-```bash
-git config core.hooksPath .githooks
-```
-
-## Project Documentation
-
-This README serves as your primary documentation.
 
 ### Problem Statement
 
@@ -158,3 +130,5 @@ Description of Subsystems:
   - **User Details:** Backend component handling user profile data.
 
 ---
+
+### Developed by Jonathan Thorsten Müller & Mikhail Khinevich

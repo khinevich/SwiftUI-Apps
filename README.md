@@ -1,6 +1,6 @@
 # SwiftUI Collaboration Apps
 
-This repository showcases iOS applications developed as part of a [University[TUM]](https://www.tum.de/) [Course[iPraktikum]](https://aet.cit.tum.de/projects/courses/ipraktikum/) on Swift and iOS development. As the course instructor, I guided students through intensive one-week development sprint, where each Student built a complete iOS application from concept to implementation.
+This repository showcases iOS applications developed as part of a [Technical University of Munich](https://www.tum.de/) [iPraktikum-Course](https://aet.cit.tum.de/projects/courses/ipraktikum/) on Swift and iOS development. As the course instructor, I guided students through intensive one-week development sprint, where each Student built a complete iOS application from concept to implementation.
 
 **My Role:**
 - **Technical Mentorship** - Provided hands-on guidance in Swift, SwiftUI, and iOS development best practices
@@ -9,6 +9,7 @@ This repository showcases iOS applications developed as part of a [University[TU
 - **Problem Solving** - Helped students overcome technical challenges and make critical design decisions
 
 Each project represents a collaborative effort between student and myself, demonstrating real-world software development practices.
+### Source Code for each App is stored in private repositories
 
 ## Radio Atlas iOS-App ["Best Coursewide iOS App" Nomination Winner]
 ![iOS-Icon](RadioAtlasApp.png)

@@ -1,6 +1,18 @@
 # SwiftUI Collaboration Apps
 
-## Radio Atlas iOS-App
+## About This Repository
+
+This repository showcases iOS applications developed as part of a [University](https://www.tum.de/) [Course](https://aet.cit.tum.de/projects/courses/ipraktikum/) on Swift and iOS development. As the course instructor, I guided students through intensive one-week development sprint, where each Student built a complete iOS application from concept to implementation.
+
+**My Role:**
+- **Technical Mentorship** - Provided hands-on guidance in Swift, SwiftUI, and iOS development best practices
+- **Pair Programming** - Worked directly with students through their code reviews and collaborative-teaching coding sessions
+- **Architecture & Design** - Advised on app architecture, data flow, functionality, and code quality improvements
+- **Problem Solving** - Helped students overcome technical challenges and make critical design decisions
+
+Each project represents a collaborative effort between student and myself, demonstrating real-world software development practices.
+
+## Radio Atlas iOS-App ["Best Coursewide iOS App" Nomination Winner]
 ![iOS-Icon](RadioAtlasApp.png)
 
 RadioAtlas is an iOS app for discovering and streaming global radio stations through an interactive map interface. Built with SwiftUI and SwiftData, it provides seamless access to thousands of stations from the Radio Browser API with offline favorites support.

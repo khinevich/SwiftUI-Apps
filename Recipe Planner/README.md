@@ -1,8 +1,6 @@
 # Recipe Planner iOS-App
 ![iOS-App](RecipePlanner.jpg)
 
-## Tom Kuttler & Mikhail Khinevich
-
 ## Project Documentation
 
 This README serves as your primary documentation.
@@ -83,6 +81,7 @@ The application should allow the manual import of recipes via a form or the sear
 * User Profile:
     - stores birthday to calculate the age and weight info
 ---
+### Developed by Tom Kuttler & Mikhail Khinevich
 ## Local development
 Use XcodeGen to manage your Xcode Project. 
 

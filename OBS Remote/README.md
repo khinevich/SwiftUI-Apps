@@ -1,5 +1,5 @@
 # OBS Remote iOS-App
-
+![iOS-App](OBSRemote.jpg)
 ## Valentin Lehnmann & Mikhail Khinevich
 
 ## Local development

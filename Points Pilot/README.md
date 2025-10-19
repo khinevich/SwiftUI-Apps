@@ -1,5 +1,5 @@
 # PointsPilot - Traffic Penalty Points Tracker, iOS-App
-
+![iOS-App](PointsPilot.jpg)
 ## Jonathan Thorsten Müller & Mikhail Khinevich
 PointsPilot helps drivers in Germany track their traffic penalty points under
 the Flensburg system. It provides a user-friendly interface to log violations,

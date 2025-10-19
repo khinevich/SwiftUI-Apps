@@ -1,5 +1,5 @@
 # TipUp iOS-App
-
+![iOS-App](TipUp.jpg)
 ## Viktor Lynok & Mikhail Khinevich
 
 ## Local development

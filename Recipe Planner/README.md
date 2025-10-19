@@ -1,4 +1,5 @@
 # Recipe Planner iOS-App
+![iOS-App](RecipePlanner.jpg)
 
 ## Tom Kuttler & Mikhail Khinevich
 

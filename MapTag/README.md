@@ -1,5 +1,5 @@
 # MapTag iOS-App
-
+![iOS-App](MapTag.jpg)
 ## Ekaterina Pavliuchuk & Mikhail Khinevich
 
 ## Local development

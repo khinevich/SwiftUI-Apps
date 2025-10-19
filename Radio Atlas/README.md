@@ -1,5 +1,5 @@
 # RadioAtls iOS-App
-
+![iOS-App](RadioAtlas.jpg)
 ## Justin Dennis Lanfermann & Mikhail Khinevich
 
 ## Local development

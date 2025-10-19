@@ -11,7 +11,8 @@ This repository showcases iOS applications developed as part of [iPraktikum-Cour
 Each project represents a collaborative effort between student and myself, demonstrating real-world software development practices.
 ### Source Code for each App is stored in private repositories
 
-## Radio Atlas iOS-App ["Best Coursewide iOS App" Nomination Winner]
+## Radio Atlas iOS-App
+### Best iOS App Award Winner
 ![iOS-Icon](RadioAtlasApp.png)
 
 RadioAtlas is an iOS app for discovering and streaming global radio stations through an interactive map interface. Built with SwiftUI and SwiftData, it provides seamless access to thousands of stations from the Radio Browser API with offline favorites support.

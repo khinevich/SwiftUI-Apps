@@ -78,7 +78,7 @@ As a user, I want to be able to add my own emotional tag (a pin, a short note, a
 
 Inserting an image in Markdown:
 
-![Class Diagram](Class%20Diagram.png)
+![Class Diagram](aom.png)
 
 ### Architecture
 

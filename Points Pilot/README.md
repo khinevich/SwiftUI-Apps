@@ -122,13 +122,13 @@ This app provides a private, user-friendly solution: digital record-keeping for 
 
 #### Analysis Object Model
 
-![Analysis Object Model](./docs/AOM.png)
+![Analysis Object Model](AOM.png)
 
 ### Architecture
 
 #### Subsystem Decomposition
 
-![Subsystem Decomposition Diagram](./docs/SSD.png)
+![Subsystem Decomposition Diagram](SSD.png)
 
 Description of Subsystems:
 

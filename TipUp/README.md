@@ -75,9 +75,9 @@ Therefore people need an app, that can calculate and distribute tips easily and 
 
 #### Analysis Object Model
  
-![Anlysis Object Model](UML/AnlysisObjectModel.png) 
+![Anlysis Object Model](AnlysisObjectModel.png) 
 
 #### Subsystem Decomposition
-![Subsystem Decomposition](UML/SubsystemDecompositionDiagram.png)
+![Subsystem Decomposition](SubsystemDecompositionDiagram.png)
 * Subsystem TipUpApp — UI and business logic of App. Managing (Add, remove and change of members of list) of list of dinings, lists of friend and lists of their prices.
 * Subsystem ExchangeRate-Api - ApiCaller and third party ExchangeRate API — provides information about actual currencies relationships.

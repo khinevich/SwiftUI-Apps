@@ -63,13 +63,13 @@ As a streamer using OBS I want to…
 
 #### Analysis Object Model
 
-![AOM](/assets/aom.png)
+![AOM](aom.png)
 
 ### Architecture
 
 #### Subsystem Decomposition
 
-![SSD](/assets/ssd.png)
+![SSD](ssd.png)
 
 - OBS - external software that this app connects to and controls
 - Stream - manages the connection to OBS and provides methods to start and stop the stream

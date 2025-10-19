@@ -1,8 +1,6 @@
 # SwiftUI Collaboration Apps
 
-## About This Repository
-
-This repository showcases iOS applications developed as part of a [University](https://www.tum.de/) [Course](https://aet.cit.tum.de/projects/courses/ipraktikum/) on Swift and iOS development. As the course instructor, I guided students through intensive one-week development sprint, where each Student built a complete iOS application from concept to implementation.
+This repository showcases iOS applications developed as part of a [University[TUM]](https://www.tum.de/) [Course[iPraktikum]](https://aet.cit.tum.de/projects/courses/ipraktikum/) on Swift and iOS development. As the course instructor, I guided students through intensive one-week development sprint, where each Student built a complete iOS application from concept to implementation.
 
 **My Role:**
 - **Technical Mentorship** - Provided hands-on guidance in Swift, SwiftUI, and iOS development best practices

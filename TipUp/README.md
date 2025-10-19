@@ -21,18 +21,17 @@ Therefore people need an app, that can calculate and distribute tips easily and 
 - As a restaurant customer, I want to be able to calculate the tip in different currencies so that I can tip with different currencies.
 
 #### Quality Attributes & External Constraints
-* **HIG usability:** Based on Apple HIG and suggestions of my Tutor I implemented all main screens of TipUp App. Mainly I followed the layout, icons and color guidelines. Examples of such screens: ![MainView Screen](TipUp/Screens/MainViewUI.swift), ![History Screen](TipUp/Screens/HistoryView.swift), ![Settings Screen](TipUp/Screens/SettingsScreen.swift), ![Final Tip Screen](TipUp/Screens/FinalTipScreen.swift)*
+* **HIG usability:** Based on Apple HIG and suggestions of my Tutor I implemented all main screens of TipUp App. Mainly I followed the layout, icons and color guidelines.*
 
-* **dark mode:** TipUp contains special colors and background for dart theme. Everything can be found in assets file. Example screenshots: ![Dark Welcome Screen](Screenshots/DarkThemeScreenshot1.jpg), ![Dark Main Screen](Screenshots/DarkThemeScreenshot2.jpg), ![Dark Final Tip Screen](Screenshots/DarkThemeScreenshot3.jpg), ![Dark Price List Screen](Screenshots/DarkThemeScreenshot4.jpg)*
+* **dark mode:** TipUp contains special colors and background for dart theme. Everything can be found in assets file.*
 
-* **responsiveness:** TipUp uses GeometryReader, which means, that UI will look similar at all iOS devices. Example of use of GeometryReader: ![MainView Screen](TipUp/Screens/MainViewUI.swift), ![Screen Manager](TipUp/Screens/ScreenManager.swift)*
+* **responsiveness:** TipUp uses GeometryReader, which means, that UI will look similar at all iOS devices.* 
 
-* **persistance:** TipUp works with Swift data and works with dinings in which all parameters can be changed and stored. Examples ![Main Screen](TipUp/Screens/MainView.swift), ![Final Tip View Logic](TipUp/Screens/FinalTipScreenLogic.swift)*
+* **persistance:** TipUp works with Swift data and works with dinings in which all parameters can be changed and stored.*
 
-* **logging:** TipUp uses logger to show info about results of api calls and debug some actions in ui. Examples of use: ![Logger](TipUp/Logger.swift), 
-![API call class](TipUp/API/ApiCaller.swift), ![Add friend field logic](TipUp/ElementViews/AddFriendFieldLogic.swift)*
+* **logging:** TipUp uses logger to show info about results of api calls and debug some actions in ui.*
 
-* **error handling:** App handles all possible errors (which can occure only via API call). Error handling: ![API call class](TipUp/API/ApiCaller.swift), ![Final Tip logic](TipUp/Screens/FinalTipScreenLogic.swift), ![Settings Screen](TipUp/Screens/SettingsScreen.swift)*
+* **error handling:** App handles all possible errors (which can occure only via API call).*
 
 * **Responsible AI usage:** During the development AI was used as a generative model to generate the app icon and all backgrounds. Also it was used as learning tool, which helped to understand some SwiftUI topics. Also I followed the feedback of AI assistant at GitLab.*
 

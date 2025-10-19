@@ -34,7 +34,7 @@ As a user, I want to be able to add my own emotional tag (a pin, a short note, a
 
 * **Error Handling:**  The app demonstrates error handling, particularly for network requests. In MapTag/ApiView.swift, the loadPlaces() function uses a do-catch block to handle potential errors during API calls. If an error occurs, an alert is presented to the user with options to retry the request or cancel the operation.
 
-* **Performance:** The app uses efficient SwiftUI patterns including `@Query` for data fetching, and proper state management with `@State` and `@Observable`. The map interface uses `MapReader` for efficient gesture handling and `ForEach` with proper identifiers for list performance. Supporting evidence: `MapView.swift`, `FriendsView.swift`, `LocationManager.swift` (lines 5-6).
+* **Performance:** The app uses efficient SwiftUI patterns including `@Query` for data fetching, and proper state management with `@State` and `@Observable`. The map interface uses `MapReader` for efficient gesture handling and `ForEach` with proper identifiers for list performance. 
 
 * **Architecture:**  The application's architecture is organized using the container-presentational pattern. This design pattern separates views into two distinct types: container views that manage logic and state, and presentational views that are responsible for the UI. Container views fetch data, handle user input, and pass the necessary data and callbacks to their corresponding presentational views. This separation improves reusability, testability, and maintainability of the code.
 

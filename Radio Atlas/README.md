@@ -56,17 +56,11 @@ VoiceOver compatibility implemented with `.accessibilityLabel()`, `.accessibilit
 ##### Error Handling & Logging
 15-second playback timeout with toast notifications. OSLog with categorized subsystems (Network, Player, Database, UI).
 
-**Evidence:** [RadioPlayerManager.swift](RadioAtlasApp/State/RadioPlayerManager.swift), [AppLogger.swift](RadioAtlasApp/Common/Helpers/AppLogger.swift)
-
 ##### Background Playback
 Continuous audio when backgrounded/locked via `UIBackgroundModes`. MPNowPlayingInfoCenter for lock screen controls.
 
-**Evidence:** [Info.plist:23-25](RadioAtlasApp/Supporting/Info.plist#L23-L25)
-
 ##### Dependencies
 FRadioPlayer, ClusterMap, Kingfisher, UIImageColors, swiftui-toasts, TouchVisualizer.
-
-**Evidence:** [project.yml:7-21](project.yml#L7-L21)
 
 #### Glossary (Abbott’s Technique)
 | Term | Definition |
